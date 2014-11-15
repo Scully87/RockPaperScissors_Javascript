@@ -14,7 +14,7 @@ Rock Paper Scissors
   - [ ] Create a View in browser for the game
 
 ------------------------------------------------
-Also created with same functionality:
+#####Also created with same functionality:
 
-  [Pokémon_game](https://www.github.com/scully87/Pokemon_game) in Javascript
-  [Rock, Paper, Scissors](https://www.github.com/Scully87/Rock_Paper_Scissors) in Ruby
+ - [Pokémon_game](https://www.github.com/scully87/Pokemon_game) in Javascript
+ - [Rock, Paper, Scissors](https://www.github.com/Scully87/Rock_Paper_Scissors) in Ruby
