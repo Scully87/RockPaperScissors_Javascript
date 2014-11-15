@@ -9,9 +9,10 @@ Rock Paper Scissors
   - Jasmine
 
 #####To do list:
-  -[x] Create game functionality
-  -[ ] Work Jasmine tests
-  -[ ] Create a View in browser for the game
+  - [x] Create game functionality
+  - [ ] Work Jasmine tests
+  - [ ] Create a View in browser for the game
+
 ------------------------------------------------
 Also created with same functionality:
 
