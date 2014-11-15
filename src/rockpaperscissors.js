@@ -1,5 +1,9 @@
 function RockPaperScissors() {};
 
+function Rock() {};
+function Paper() {};
+function Scissors() {};
+
 var userChoice = prompt("Do you choose Rock, Paper, or Scissors?");
 
 var computerChoice = Math.random()
